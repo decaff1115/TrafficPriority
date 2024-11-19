@@ -1,0 +1,6 @@
+1,Main Lane,10.00
+2,Diversion Lane,15.00
+3,Pedestrian on Main Lane,20.00
+4,Pedestrian on Diversion Lane,25.00
+5,Left Turn from Main Lane,30.00
+6,Left Turn from Diversion Lane,35.00
